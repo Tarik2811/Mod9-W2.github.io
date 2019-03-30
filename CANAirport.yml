@@ -1,0 +1,12 @@
+name: "Airport east CAN"
+navbar:
+  title: "Airport CAN"
+  left:
+    - text: "Map"
+      href: CANAirport.html
+      
+      output:
+  html_document: CANAirport.html
+    theme: paper
+    css: 'styles.css'
+    
